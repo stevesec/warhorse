@@ -15,8 +15,8 @@ roles:
   - name: warhorse.neo4j_docker
   - name: warhorse.traefik_docker
   - name: warhorse.nighthawk_docker
-  - name: warhorse.gophish_docker
-  - name: warhorse.evilginx2_docker
+  - name: stevesec.gophish_docker
+  - name: stevesec.evilginx2_docker
   - name: warhorse.nginx_docker
   - name: warhorse.parrotos_docker
 
